@@ -11,8 +11,8 @@ I'm <strong>Malak Yazbek</strong>, a Computer Science graduate from Lebanon who 
 <strong>Fun Facts</strong><br>
 <ul>
 <li>&nbsp;&nbsp;&nbsp;&nbsp;I run on caffeine.<br></li>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;I'm a Harry Potter fan who would love to experience magic.</li><br>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;I dream of traveling the world and finding a place where I can settle down.</li><br>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;I'm a Harry Potter fan who would love to experience magic.</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;I dream of traveling the world and finding a place where I can settle down.</li>
 </ul>
 <hr>
 <i>Always learning, always creating, and always curious about what's next.</i><br>
