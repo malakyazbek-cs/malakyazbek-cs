@@ -9,6 +9,7 @@ I'm <strong>Malak Yazbek</strong>, a Computer Science graduate from Lebanon who 
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>Programming Languages:</strong> C++, C#, Python, Java, PHP.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>Frameworks:</strong> Laravel, Angular.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>Favorite Tools:</strong> Visual Studio Code, Figma, Canva<br>
+My favorite project so far is my graduation project, a complete cross-platform mobile and web application that brought together everything I've learned. <br>
 <strong>Fun Facts</strong><br>
 <ul>
 <li>&nbsp;&nbsp;&nbsp;&nbsp;I run on caffeine.<br></li>
@@ -16,4 +17,4 @@ I'm <strong>Malak Yazbek</strong>, a Computer Science graduate from Lebanon who 
 <li>&nbsp;&nbsp;&nbsp;&nbsp;I dream of traveling the world and finding a place where I can settle down.</li>
 </ul>
 <hr>
-<i>Always learning, always creating, and always curious about what's next.</i><br>
+<i>The harder you work for something, the greater you'll feel when you achieve it.</i><br>
