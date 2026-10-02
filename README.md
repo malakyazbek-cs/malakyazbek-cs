@@ -9,8 +9,10 @@ I'm <strong>Malak Yazbek</strong>, a Computer Science graduate from Lebanon who 
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>Frameworks:</strong> Laravel, Angular.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<strong>Favorite Tools:</strong> Visual Studio Code, Figma, Canva<br>
 <strong>Fun Facts</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;I run on caffeine.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;I'm a Harry Potter fan who would love to experience magic.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;I dream of traveling the world and finding a place where I can settle down.<br>
+<ul>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;I run on caffeine.<br></li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;I'm a Harry Potter fan who would love to experience magic.</li><br>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;I dream of traveling the world and finding a place where I can settle down.</li><br>
+</ul>
 <hr>
 <i>Always learning, always creating, and always curious about what's next.</i><br>
