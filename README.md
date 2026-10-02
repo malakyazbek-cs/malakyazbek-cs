@@ -1,5 +1,5 @@
 
-<h3>Hey there! 👋</h3><br>
+<h3>Hey there! 👋</h3>
 <strong>First lecture:</strong> Hello, World!<br>
 <strong>Second lecture:</strong> Things get complicated.<br>
 I'm <strong>Malak Yazbek</strong>, a Computer Science graduate from Lebanon who enjoys turning ideas into reality through code.<br>
